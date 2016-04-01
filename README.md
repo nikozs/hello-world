@@ -1,2 +1,1 @@
-# hello-world
-My first depository
+This is a hello-world program
