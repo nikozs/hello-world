@@ -1,1 +1,1 @@
-This is a hello-world program
+This is a new hello-world program
